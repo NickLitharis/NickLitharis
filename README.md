@@ -4,12 +4,10 @@
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
 </div>
 
-
-
 ### :man_technologist: About me: <br>  Undergraduate student at [Ionian University](https://github.com/courses-ionio)
 
 - 🔭 I’m currently working on: [HCI](https://github.com/courses-ionio/hci)
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 📫 How to reach me: p19lith@ionio.gr
 - ⚡ Fun fact: Εμένανε με λένε Μανώλη
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -21,16 +19,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>
 </div>
 
-
-
-
 ## :fire: My Stats:
 <div  align="center">
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickLitharis&count_private=trueshow_icons=true&theme=radical&hide_border=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickLitharis&layout=compact&theme=radical&hide_border=true&border_radius=5&langs_count=10&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
-  
 </div>
-
