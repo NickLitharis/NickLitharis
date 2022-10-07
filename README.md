@@ -1,16 +1,36 @@
-### Hi there 👋
+### Hi! everyone :wave:
 
-<!--
-**NickLitharis/NickLItharis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### :man_technologist: About me: <br>  Undergraduate student at [Ionian University](https://github.com/courses-ionio)
+
+- 🔭 I’m currently working on: [HCI](https://github.com/courses-ionio/hci)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- ⚡ Fun fact: Εμένανε με λένε Μανώλη
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" **alt="c" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" **alt="cplusplus" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>
+</div>
+
+
+
+
+## :fire: My Stats:
+<div  align="center">
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickLitharis&count_private=trueshow_icons=true&theme=radical&hide_border=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickLitharis&layout=compact&theme=radical&hide_border=true&border_radius=5&langs_count=10&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
