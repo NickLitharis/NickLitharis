@@ -24,5 +24,5 @@
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickLitharis&count_private=trueshow_icons=true&theme=radical&hide_border=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickLitharis&layout=compact&theme=radical&hide_border=true&border_radius=5&langs_count=10&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickLitharis&layout=compact&theme=radical&hide_border=true&border_radius=5&langs_count=10&card_width=450&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
