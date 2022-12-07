@@ -26,3 +26,5 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickLitharis&layout=compact&theme=radical&hide_border=true&border_radius=5&langs_count=4&card_width=450&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+![](https://komarev.com/ghpvc/?username=NickLitharis&style=flat-square)
