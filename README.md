@@ -6,7 +6,7 @@
 
 ### :man_technologist: About me: <br>  Undergraduate student at [Ionian University](https://github.com/courses-ionio)
 
-- 🔭 I’m currently working on: [HCI](https://github.com/courses-ionio/hci)
+- 🔭 I’m currently working on: [SW](https://github.com/courses-ionio/sw)
 - 📫 How to reach me: p19lith@ionio.gr
 - ⚡ Fun fact: Εμένανε με λένε Μανώλη
 
