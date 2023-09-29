@@ -6,8 +6,8 @@
 
 ### :man_technologist: About me: <br>  Undergraduate student at [Ionian University](https://github.com/courses-ionio)
 
-- 🔭 I’m currently working on: [SW](https://github.com/courses-ionio/sw)
-- 📫 How to reach me: p19lith@ionio.gr
+- 🔭 I’m currently working on: [Thesis](https://www.kaggle.com/code/nikoslitharis/thesis-notebook)
+- 📫 How to reach me: nicklitharis@gmail.com
 - ⚡ Fun fact: Εμένανε με λένε Μανώλη
 
 ### :hammer_and_wrench: Languages and Tools :
