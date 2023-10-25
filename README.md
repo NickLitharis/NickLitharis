@@ -6,7 +6,7 @@
 I'm a passionate data analyst based in Greece. I love programming, and I'm constantly exploring new things in the world of computer science.
 
 - 🔭 I’m currently working on my Thesis
-- 🌱 I’m currently learning map evaluation
+- 🌱 I’m currently learning Image Captioning With Python
 - 👯 I’m looking to collaborate on Data Analysis/Machine Learning projects
 - 📫 How to reach me: nicklitharis@gmail.com
 - 😄 Pronouns: He/Him
@@ -50,7 +50,7 @@ This repository provides code snippets and examples for performing network analy
 ## Getting in touch:
 
 
-<a href="https://linkedin.com/in/nick-litharis-933151255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nick-litharis-933151255/" height="30" width="40" /></a>  <a href="https://kaggle.com/nikoslitharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nikoslitharis" height="30" width="40" /></a>  
+</a>  <a href="https://kaggle.com/nikoslitharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nikoslitharis" height="30" width="40" /></a>  
 
 
 Feel free to reach out and connect with me! I'm always open to interesting conversations and collaborations.
