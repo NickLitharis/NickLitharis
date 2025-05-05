@@ -1,58 +1,232 @@
+# 👋 Hi, I'm Nick Litharis
 
-# Hi there, I'm Nick 👋
+**AI Engineer | Data Analyst | Python Developer**  
+📍 Greece | 🎓 Computer Science Graduate | 🔍 Open to AI/Data Opportunities  
 
-## About Me
+[![Hire Me](https://img.shields.io/badge/AI%2FData_Specialist-Available_for_Work-8A2BE2?style=for-the-badge&logo=python&logoColor=white)](mailto:nicklitharis@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-FF5722?style=for-the-badge&logo=pdf)](/Nikos_Litharis_CV.pdf)
 
-I'm a passionate data analyst based in Greece. I love programming, and I'm constantly exploring new things in the world of computer science.
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nicklitharis)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:nicklitharis@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/nikoslitharis)
 
-- 🔭 I’m currently working on my Thesis
-- 🌱 I’m currently learning Image Captioning With Python
-- 👯 I’m looking to collaborate on Data Analysis/Machine Learning projects
-- 📫 How to reach me: nicklitharis@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Εμένανε με λένε Μαρόκο
+---
 
-## My GitHub Stats
+## 🎯 Career Focus  
+Passionate **AI/Data professional** with expertise in:  # 👋 Hi, I'm Nick Litharis
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickLitharis&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+**AI Engineer | Data Analyst | Python Developer**  
+📍 Greece | 🎓 Computer Science Graduate | 🔍 Open to AI/Data Opportunities  
 
-## My Top Projects
+[![Hire Me](https://img.shields.io/badge/AI%2FData_Specialist-Available_for_Work-8A2BE2?style=for-the-badge&logo=python&logoColor=white)](mailto:nicklitharis@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-FF5722?style=for-the-badge&logo=pdf)](/Nikos_Litharis_CV.pdf)
 
-### Earthquake Analysis and Prediction Project
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nicklitharis)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:nicklitharis@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/nikoslitharis)
 
-This Python project is designed to analyze earthquake data and predict earthquake magnitudes using various data analysis and machine learning techniques. It leverages popular Python libraries such as NumPy, pandas, matplotlib, geopy, and scikit-learn to perform data processing, visualization, and model training.
+---
 
-- [Repository](https://github.com/NickLitharis/earthquake-prediction#earthquake-analysis-and-prediction-project)
+## 🎯 Career Focus  
+Passionate **AI/Data professional** with expertise in:  
+- **Machine Learning** (NLP, Computer Vision)  
+- **Data Analysis & Visualization** (Python, Power BI, Tableau)  
+- **End-to-end AI solutions** from concept to deployment  
 
-### Network Analysis with Pandas, NetworkX, and Matplotlib
+🔍 **Actively seeking roles in**:  
+- AI Engineering  
+- Data Analysis  
+- Business Intelligence  
 
-This repository provides code snippets and examples for performing network analysis using the Pandas, NetworkX, and Matplotlib libraries in Python. The snippets demonstrate various tasks such as reading data, creating graphs, calculating network metrics, and visualizing networks.
+---
+
+## 🛠️ Technical Toolkit
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
+
+**AI/ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
+
+**Data Tools**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+
+---
+
+## 💡 Core Strengths
+
+**Soft Skills**  
+![Communication](https://img.shields.io/badge/📢-Clear_Communication-8A2BE2)
+![Problem Solving](https://img.shields.io/badge/🔍-Problem_Solving-FF7F50)
+![Teamwork](https://img.shields.io/badge/👥-Cross_Functional_Collaboration-20B2AA)
+![Adaptability](https://img.shields.io/badge/🔄-Fast_Learner-32CD32)
+
+---
 
 
-- [Repository](https://github.com/NickLitharis/networkxplorer#network-analysis-with-pandas-networkx-and-matplotlib)
+## 🎓 Education
+
+**Bachelor of Computer Science**  
+[![Ionian University](https://img.shields.io/badge/Ionian_University-005FAB?style=flat&logo=graduation-cap&logoColor=white)](https://ionio.gr)  
+`2019 - 2024` | Corfu, Greece  
+
+- **Thesis**: *Text Generation from Medical Images*  
+  - Applied `NLP` and `Computer Vision` techniques  
+  - Built with Python, PyTorch, and Transformers  
+  - Achieved 88% accuracy on radiology reports  
+- **Key Courses**:  
+  ![ML](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat)  
+  ![Big Data](https://img.shields.io/badge/-Big_Data-430098?style=flat)  
+  ![Databases](https://img.shields.io/badge/-Databases-4479A1?style=flat)  
+
+## 💼 Professional Experience
+
+**AI Development Intern**  
+[![Prosperty](https://img.shields.io/badge/Prosperty-AI_Real_Estate-FF6B6B?style=flat&logo=homeadvisor&logoColor=white)](https://theprosperty.com)  
+`Feb 2024` - `Mar 2024` | Remote  
+
+- Developed NLP system using `GPT-3` and `Python` to auto-generate property descriptions  
+  - Processed 50+ listings daily with 92% accuracy  
+  - Reduced manual content creation time by 35%   
+- Collaborated with product team to deploy solutions to production  
+
+**Tech Stack**:  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
+![NLP](https://img.shields.io/badge/-NLP-4DC71F?style=flat&logo=openai)  
+
+---
+
+## 📜 Certifications  
+![Data Science Professional](https://img.shields.io/badge/Data_Science_Professional-Workearly-9C27B0?style=flat&logo=bookstack&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white)  
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-freeCodeCamp-0A0A23?style=flat&logo=google-analytics&logoColor=white)  
+
+---
 
 
-  
+## 🚀 Featured Projects
 
-  
-## Programming Languages:
+### [Earthquake Prediction Analysis](https://github.com/NickLitharis/earthquake-prediction)
+> Analyzed seismic patterns and predicted magnitudes using Python (Pandas, Scikit-learn)  
+> ![Python](https://img.shields.io/badge/-Python-blue) ![ML](https://img.shields.io/badge/-Machine%20Learning-orange)
+
+### [Network Analysis Toolkit](https://github.com/NickLitharis/networkxplorer)
+> Modeled complex systems with NetworkX and Matplotlib  
+> ![Graphs](https://img.shields.io/badge/-Graph%20Theory-green) ![DataViz](https://img.shields.io/badge/-Visualization-yellow)
+
+---
+
+## 💻 Code Profile  
+| Stats | Languages |  
+|-------|-----------|  
+| [![Stats](https://github-readme-stats.vercel.app/api?username=NickLitharis&theme=vue&hide_border=true)](https://github.com/NickLitharis) | [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickLitharis&layout=compact&theme=vue&hide_border=true)](https://github.com/NickLitharis) |  
+
+---
 
 
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/>
+- **Machine Learning** (NLP, Computer Vision)  
+- **Data Analysis & Visualization** (Python, Power BI, Tableau)  
+- **End-to-end AI solutions** from concept to deployment  
+
+🔍 **Actively seeking roles in**:  
+- AI Engineering  
+- Data Analysis  
+- Business Intelligence  
+
+---
+
+## 🛠️ Technical Toolkit
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
+
+**AI/ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
+
+**Data Tools**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+
+---
+
+## 💡 Core Strengths
+
+**Soft Skills**  
+![Communication](https://img.shields.io/badge/📢-Clear_Communication-8A2BE2)
+![Problem Solving](https://img.shields.io/badge/🔍-Problem_Solving-FF7F50)
+![Teamwork](https://img.shields.io/badge/👥-Cross_Functional_Collaboration-20B2AA)
+![Adaptability](https://img.shields.io/badge/🔄-Fast_Learner-32CD32)
+
+---
 
 
+## 🎓 Education
 
-## Tools:
+**Bachelor of Computer Science**  
+[![Ionian University](https://img.shields.io/badge/Ionian_University-005FAB?style=flat&logo=graduation-cap&logoColor=white)](https://ionio.gr)  
+`2019 - 2024` | Corfu, Greece  
 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="30"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="30"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="30"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="30"/>
+- **Thesis**: *Text Generation from Medical Images*  
+  - Applied `NLP` and `Computer Vision` techniques  
+  - Built with Python, PyTorch, and Transformers  
+  - Achieved 88% accuracy on radiology reports  
+- **Key Courses**:  
+  ![ML](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat)  
+  ![Big Data](https://img.shields.io/badge/-Big_Data-430098?style=flat)  
+  ![Databases](https://img.shields.io/badge/-Databases-4479A1?style=flat)  
+
+## 💼 Professional Experience
+
+**AI Development Intern**  
+[![Prosperty](https://img.shields.io/badge/Prosperty-AI_Real_Estate-FF6B6B?style=flat&logo=homeadvisor&logoColor=white)](https://theprosperty.com)  
+`Feb 2024` - `Mar 2024` | Remote  
+
+- Developed NLP system using `GPT-3` and `Python` to auto-generate property descriptions  
+  - Processed 50+ listings daily with 92% accuracy  
+  - Reduced manual content creation time by 35%   
+- Collaborated with product team to deploy solutions to production  
+
+**Tech Stack**:  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
+![NLP](https://img.shields.io/badge/-NLP-4DC71F?style=flat&logo=openai)  
+
+---
+
+## 📜 Certifications  
+![Data Science Professional](https://img.shields.io/badge/Data_Science_Professional-Workearly-9C27B0?style=flat&logo=bookstack&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white)  
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-freeCodeCamp-0A0A23?style=flat&logo=google-analytics&logoColor=white)  
+
+---
 
 
-## Getting in touch:
+## 🚀 Featured Projects
 
+### [Earthquake Prediction Analysis](https://github.com/NickLitharis/earthquake-prediction)
+> Analyzed seismic patterns and predicted magnitudes using Python (Pandas, Scikit-learn)  
+> ![Python](https://img.shields.io/badge/-Python-blue) ![ML](https://img.shields.io/badge/-Machine%20Learning-orange)
 
-</a>  <a href="https://kaggle.com/nikoslitharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nikoslitharis" height="30" width="40" /></a>  
+### [Network Analysis Toolkit](https://github.com/NickLitharis/networkxplorer)
+> Modeled complex systems with NetworkX and Matplotlib  
+> ![Graphs](https://img.shields.io/badge/-Graph%20Theory-green) ![DataViz](https://img.shields.io/badge/-Visualization-yellow)
 
+---
 
-Feel free to reach out and connect with me! I'm always open to interesting conversations and collaborations.
+## 💻 Code Profile  
+| Stats | Languages |  
+|-------|-----------|  
+| [![Stats](https://github-readme-stats.vercel.app/api?username=NickLitharis&theme=vue&hide_border=true)](https://github.com/NickLitharis) | [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickLitharis&layout=compact&theme=vue&hide_border=true)](https://github.com/NickLitharis) |  
 
-Thanks for visiting my GitHub profile! 😄
+---
+
