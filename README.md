@@ -16,7 +16,6 @@
 Passionate **AI/Data professional** with expertise in:  
 - **Machine Learning** (NLP, Computer Vision)  
 - **Data Analysis & Visualization** (Python, Power BI, Tableau)  
-- **End-to-end AI solutions** from concept to deployment  
 
 🔍 **Actively seeking roles in**:  
 - AI Engineering  
@@ -62,8 +61,7 @@ Passionate **AI/Data professional** with expertise in:
 
 - **Thesis**: *Text Generation from Medical Images*  
   - Applied `NLP` and `Computer Vision` techniques  
-  - Built with Python, PyTorch, and Transformers  
-  - Achieved 88% accuracy on radiology reports  
+  - Built with Python, PyTorch, and Transformers   
 - **Key Courses**:  
   ![ML](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat)  
   ![Big Data](https://img.shields.io/badge/-Big_Data-430098?style=flat)  
@@ -76,8 +74,6 @@ Passionate **AI/Data professional** with expertise in:
 `Feb 2024` - `Mar 2024` | Remote  
 
 - Developed NLP system using `GPT-3` and `Python` to auto-generate property descriptions  
-  - Processed 50+ listings daily with 92% accuracy  
-  - Reduced manual content creation time by 35%   
 - Collaborated with product team to deploy solutions to production  
 
 **Tech Stack**:  
