@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Nick Litharis
+# 👋 Hi, I'm Nikos Litharis
 
-**AI Engineer | Data Analyst | Python Developer**  
+**AI Engineer | Data Analyst**  
 📍 Greece | 🎓 Computer Science Graduate | 🔍 Open to AI/Data Opportunities  
 
 [![Hire Me](https://img.shields.io/badge/AI%2FData_Specialist-Available_for_Work-8A2BE2?style=for-the-badge&logo=python&logoColor=white)](mailto:nicklitharis@gmail.com)
@@ -54,7 +54,6 @@ Passionate **AI/Data professional** with expertise in:
 
 ---
 
-
 ## 🎓 Education
 
 **Bachelor of Computer Science**  
@@ -94,7 +93,6 @@ Passionate **AI/Data professional** with expertise in:
 
 ---
 
-
 ## 🚀 Featured Projects
 
 ### [Earthquake Prediction Analysis](https://github.com/NickLitharis/earthquake-prediction)
@@ -106,11 +104,3 @@ Passionate **AI/Data professional** with expertise in:
 > ![Graphs](https://img.shields.io/badge/-Graph%20Theory-green) ![DataViz](https://img.shields.io/badge/-Visualization-yellow)
 
 ---
-
-## 💻 Code Profile  
-| Stats | Languages |  
-|-------|-----------|  
-| [![Stats](https://github-readme-stats.vercel.app/api?username=NickLitharis&theme=vue&hide_border=true)](https://github.com/NickLitharis) | [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickLitharis&layout=compact&theme=vue&hide_border=true)](https://github.com/NickLitharis) |  
-
----
-
