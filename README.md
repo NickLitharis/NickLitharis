@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nikos Litharis
 
 **AI Engineer | Data Analyst**  
-📍 Greece | 🎓 Computer Science Graduate | 🔍 Open to AI/Data Opportunities  
+📍 Greece | 🎓 Computer Science Graduate  
 
 [![Hire Me](https://img.shields.io/badge/AI%2FData_Specialist-Available_for_Work-8A2BE2?style=for-the-badge&logo=python&logoColor=white)](mailto:nicklitharis@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-FF5722?style=for-the-badge&logo=pdf)](/Nikos_Litharis_CV.pdf)
