@@ -3,7 +3,7 @@
 **AI Engineer | Data Analyst**  
 📍 Greece | 🎓 Computer Science Graduate  
 
-[![Hire Me](https://img.shields.io/badge/AI%2FData_Specialist-Available_for_Work-8A2BE2?style=for-the-badge&logo=python&logoColor=white)](mailto:nicklitharis@gmail.com)
+<!-- [![Hire Me](https://img.shields.io/badge/AI%2FData_Specialist-Available_for_Work-8A2BE2?style=for-the-badge&logo=python&logoColor=white)](mailto:nicklitharis@gmail.com) -->
 [![Resume](https://img.shields.io/badge/Resume-Download-FF5722?style=for-the-badge&logo=pdf)](/Nikos_Litharis_CV.pdf)
 
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nicklitharis)
@@ -16,11 +16,6 @@
 Passionate **AI/Data professional** with expertise in:  
 - **Machine Learning** (NLP, Computer Vision)  
 - **Data Analysis & Visualization** (Python, Power BI, Tableau)  
-
-🔍 **Actively seeking roles in**:  
-- AI Engineering  
-- Data Analysis  
-- Business Intelligence  
 
 ---
 
