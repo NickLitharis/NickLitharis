@@ -1,10 +1,7 @@
 # 👋 Hi, I'm Nikos Litharis
 
-**AI Engineer | Data Analyst**  
-📍 Greece | 🎓 Computer Science Graduate  
-
-<!-- [![Hire Me](https://img.shields.io/badge/AI%2FData_Specialist-Available_for_Work-8A2BE2?style=for-the-badge&logo=python&logoColor=white)](mailto:nicklitharis@gmail.com) -->
-[![Resume](https://img.shields.io/badge/Resume-Download-FF5722?style=for-the-badge&logo=pdf)](/Nikos_Litharis_CV.pdf)
+**AI Engineer** — building LLM pipelines and RAG systems at [Netcompany](https://netcompany.com)  
+📍 Greece
 
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nicklitharis)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:nicklitharis@gmail.com)
@@ -12,10 +9,46 @@
 
 ---
 
-## 🎯 Career Focus  
-Passionate **AI/Data professional** with expertise in:  
-- **Machine Learning** (NLP, Computer Vision)  
-- **Data Analysis & Visualization** (Python, Power BI, Tableau)  
+## 🔨 Currently Building
+
+- **LLM pipelines** for enterprise document processing
+- **RAG systems** with vector search and retrieval evaluation
+- Experimenting with agentic workflows and tool-use patterns
+
+---
+
+## 💼 Professional Experience
+
+**Junior AI Engineer**  
+[![Netcompany](https://img.shields.io/badge/Netcompany-0055A5?style=flat&logoColor=white)](https://netcompany.com)  
+`2024 - Present` | Greece
+
+- Designing and maintaining LLM pipelines for automated document understanding and extraction
+- Building RAG systems integrating vector search with structured retrieval for enterprise knowledge bases
+- Evaluating and improving retrieval quality through systematic benchmarking and prompt engineering
+
+**AI Development Intern**  
+[![Prosperty](https://img.shields.io/badge/Prosperty-AI_Real_Estate-FF6B6B?style=flat&logo=homeadvisor&logoColor=white)](https://theprosperty.com)  
+`Feb 2024 - Mar 2024` | Remote
+
+- Built an NLP pipeline using GPT-3 to auto-generate property listings at scale
+- Shipped the solution to production in collaboration with the product team
+
+---
+
+## 🚀 Featured Projects
+
+### [Earthquake Prediction Analysis](https://github.com/NickLitharis/earthquake-prediction)
+> Analyzed seismic patterns and predicted magnitudes using Pandas and Scikit-learn  
+> ![Python](https://img.shields.io/badge/-Python-blue) ![ML](https://img.shields.io/badge/-Machine%20Learning-orange)
+
+### [Network Analysis Toolkit](https://github.com/NickLitharis/networkxplorer)
+> Modeled complex systems with NetworkX and Matplotlib  
+> ![Graphs](https://img.shields.io/badge/-Graph%20Theory-green) ![DataViz](https://img.shields.io/badge/-Visualization-yellow)
+
+### [Streamlit ML App](https://github.com/NickLitharis/streamlit-ml)
+> Interactive ML demos built with Streamlit  
+> ![Streamlit](https://img.shields.io/badge/-Streamlit-red) ![Python](https://img.shields.io/badge/-Python-blue)
 
 ---
 
@@ -26,72 +59,32 @@ Passionate **AI/Data professional** with expertise in:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
 
+**LLM & RAG**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Haystack](https://img.shields.io/badge/Haystack-00A1E0?logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
+
 **AI/ML**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
 
-**Data Tools**  
+**Data & Visualization**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-
----
-
-## 💡 Core Strengths
-
-**Soft Skills**  
-![Communication](https://img.shields.io/badge/📢-Clear_Communication-8A2BE2)
-![Problem Solving](https://img.shields.io/badge/🔍-Problem_Solving-FF7F50)
-![Teamwork](https://img.shields.io/badge/👥-Cross_Functional_Collaboration-20B2AA)
-![Adaptability](https://img.shields.io/badge/🔄-Fast_Learner-32CD32)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 ---
 
 ## 🎓 Education
 
 **Bachelor of Computer Science**  
-[![Ionian University](https://img.shields.io/badge/Ionian_University-005FAB?style=flat&logo=graduation-cap&logoColor=white)](https://ionio.gr)  
-`2019 - 2024` | Corfu, Greece  
+[![Ionian University](https://img.shields.io/badge/Ionian_University-005FAB?style=flat&logoColor=white)](https://ionio.gr)  
+`2019 - 2024` | Corfu, Greece
 
-- **Thesis**: *Text Generation from Medical Images*  
-  - Applied `NLP` and `Computer Vision` techniques  
-  - Built with Python, PyTorch, and Transformers   
-- **Key Courses**:  
-  ![ML](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat)  
-  ![Big Data](https://img.shields.io/badge/-Big_Data-430098?style=flat)  
-  ![Databases](https://img.shields.io/badge/-Databases-4479A1?style=flat)  
-
-## 💼 Professional Experience
-
-**AI Development Intern**  
-[![Prosperty](https://img.shields.io/badge/Prosperty-AI_Real_Estate-FF6B6B?style=flat&logo=homeadvisor&logoColor=white)](https://theprosperty.com)  
-`Feb 2024` - `Mar 2024` | Remote  
-
-- Developed NLP system using `GPT-3` and `Python` to auto-generate property descriptions  
-- Collaborated with product team to deploy solutions to production  
-
-**Tech Stack**:  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
-![NLP](https://img.shields.io/badge/-NLP-4DC71F?style=flat&logo=openai)  
+- **Thesis**: *Text Generation from Medical Images* — NLP + Computer Vision with PyTorch and Transformers
 
 ---
 
-## 📜 Certifications  
-![Data Science Professional](https://img.shields.io/badge/Data_Science_Professional-Workearly-9C27B0?style=flat&logo=bookstack&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white)  
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-freeCodeCamp-0A0A23?style=flat&logo=google-analytics&logoColor=white)  
-
----
-
-## 🚀 Featured Projects
-
-### [Earthquake Prediction Analysis](https://github.com/NickLitharis/earthquake-prediction)
-> Analyzed seismic patterns and predicted magnitudes using Python (Pandas, Scikit-learn)  
-> ![Python](https://img.shields.io/badge/-Python-blue) ![ML](https://img.shields.io/badge/-Machine%20Learning-orange)
-
-### [Network Analysis Toolkit](https://github.com/NickLitharis/networkxplorer)
-> Modeled complex systems with NetworkX and Matplotlib  
-> ![Graphs](https://img.shields.io/badge/-Graph%20Theory-green) ![DataViz](https://img.shields.io/badge/-Visualization-yellow)
-
----
+*"Διά των δύο οδών συντομοτέρα η ευθεία" — The straight path is shorter than two roads combined.*
