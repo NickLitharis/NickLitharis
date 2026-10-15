@@ -3,6 +3,7 @@
 **AI Engineer** — building LLM pipelines and RAG systems at [Netcompany](https://netcompany.com)  
 📍 Thessaloniki, Greece
 
+[![CV](https://img.shields.io/badge/CV-PDF-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Nikos_Litharis_CV.pdf)
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nicklitharis)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:nicklitharis@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/nikoslitharis)
