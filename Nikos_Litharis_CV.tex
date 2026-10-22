@@ -1,0 +1,108 @@
+\documentclass[10pt,a4paper]{article}
+
+\usepackage[a4paper,left=38.27pt,right=38.27pt,top=32.7pt,bottom=38pt]{geometry}
+\usepackage{fontspec}
+\usepackage[hidelinks]{hyperref}
+\hypersetup{pdftitle={Nikos Litharis -- CV},pdfauthor={Nikos Litharis}}
+\usepackage{enumitem}
+\usepackage{microtype}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\linespread{1.03}
+
+% ---- section heading: uppercase bold, tracked, rule underneath
+\newfontfamily\headingfont{Latin Modern Roman}[LetterSpace=2]
+
+\newcommand{\cvsection}[1]{%
+  \par\vspace{4.0pt}%
+  {\headingfont\bfseries\MakeUppercase{#1}}\par
+  \vspace{2.2pt}%
+  \hrule height 0.6pt%
+  \vspace{7.1pt}%
+}
+
+\newcommand{\cvitem}[1]{%
+  \par\vspace{0.35pt}%
+  \noindent\hangindent=10.46pt\hangafter=1
+  \hspace*{-2.3pt}\textbullet\hspace*{9.1pt}#1%
+  \par
+}
+
+\newcommand{\entry}[3]{%
+  \noindent\textbf{#1}\hfill #3\par
+  \noindent\textit{#2}\par\vspace{2.0pt}%
+}
+
+\newcommand{\plainentry}[2]{%
+  \par\noindent\textbf{#1}\hfill #2\par
+}
+
+\newcommand{\project}[2]{%
+  \par\vspace{0.5pt}%
+  \noindent\textbf{#1} \textemdash{} \texttt{#2}\par
+}
+
+\newcommand{\projectprivate}[1]{%
+  \par\vspace{0.5pt}%
+  \noindent\textbf{#1}\par
+}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE\bfseries Nikos Litharis}\\[3pt]
+  {\small AI Engineer \textemdash{} LLM Systems, RAG \& Evaluation}\\[4pt]
+  {\small
+    \href{mailto:nicklitharis@gmail.com}{nicklitharis@gmail.com} \,|\, +30 697 658 4914 \,|\,
+    Thessaloniki, Greece \,|\, \href{https://github.com/NickLitharis}{github.com/NickLitharis} \,|\,
+    \href{https://linkedin.com/in/nicklitharis}{linkedin.com/in/nicklitharis}}
+\end{center}
+
+\vspace{-10pt}
+
+\cvsection{Summary}
+AI Engineer building production LLM systems in Python on Azure \textemdash{} RAG, multi-agent orchestration and evaluation pipelines \textemdash{} for public-sector clients including Greece's national power transmission operator (IPTO) and the Independent Authority for Public Revenue (AADE), building TAXIS, a legal-research assistant on the Microsoft Agent Framework.
+
+\cvsection{Work Experience}
+\entry{Netcompany}{AI Engineer}{Nov 2025 \textendash{} Present}
+\cvitem{Owned the evaluation and UAT pipeline for TAXIS, AADE's production legal-research assistant, end to end: versioned scenario datasets covering adversarial, citation, temporal and incomplete-context challenge sets, with gold sources, a CLI runner that scores answers and citations, and evidence-promotion tooling with runtime provenance.}
+\cvitem{Designed the evaluation suite behind retrieval improvements in IPTO's RAG knowledge-base assistant: 50 bilingual (Greek/English) cases over IEC standards documentation, used to iterate on prompts, chunking and embeddings.}
+\cvitem{Architected a durable, resumable batch-ingestion pipeline for large legal corpora (OpenAI Batch API for embeddings and enrichment, Azure AI Search v3), with recovery for expired leases and concurrent admission, and a live dashboard for throughput and queue flow.}
+\cvitem{Added voice interaction to IPTO's RAG assistant by integrating Azure Speech SDK STT/TTS with managed identity authentication, handling long-response streaming, timeouts and cancellation.}
+\cvitem{Built Docker-containerized multi-agent (A2A) orchestration pipelines with LangChain, reused across delivery projects to cut manual coordination overhead.}
+
+\vspace{4.5pt}\plainentry{Military Service, Hellenic Army}{Sep 2024 \textendash{} Jun 2025}
+
+\vspace{4.0pt}\entry{The Prosperty}{AI Development Intern}{Feb 2024 \textendash{} Mar 2024}
+\cvitem{Cut listing-description production time from \textasciitilde 2 hours to under 30 seconds by building a GPT-3 generation tool in Python, adopted for new property listings.}
+\cvitem{Raised generated-copy acceptance by fine-tuning language models on property data and iterating on training samples against tone and accuracy requirements.}
+\cvitem{Integrated the tool into the live listing platform by shipping a REST API with the product and engineering teams.}
+
+\cvsection{Projects}
+\projectprivate{SkillPulse Agent}
+Job-market analyser over Hacker News ``Who is hiring?'' threads: scheduled workers, LLM skill extraction into PostgreSQL, and a LangGraph agent answering only from SQL, with five read-only tools shared with an MCP server; scored by a 64-question benchmark with a grounding gate on every figure.
+
+\vspace{3.5pt}\project{MedLeaf RAG \textit{\small (in progress)}}{github.com/NickLitharis/medleaf-rag}
+Bilingual (Greek/English) retrieval-augmented QA over official EU medicine information, with cited answers, medical safety guardrails, and a CI evaluation gate that blocks regressions.
+
+\vspace{3.5pt}\project{Anemos}{github.com/NickLitharis/anemos}
+Open-source operating system inspired by Windows XP, built as new code and validated for behavioural compatibility against XP itself: ABI, conformance and crypto gates, with DNS and DHCP codecs passing their suites.
+
+\vspace{3.5pt}\project{Haystack \& Elasticsearch Q\&A Search}{github.com/NickLitharis/haystack-elastic}
+Indexed scraped Q\&A data into Elasticsearch and compared two retrieval pipelines \textemdash{} keyword (BM25) against semantic search with Haystack's EmbeddingRetriever, returning the top-5 answers by embedding similarity.
+
+\cvsection{Education}
+\plainentry{BSc in Computer Science, Ionian University, Corfu}{2019 \textendash{} 2024}
+Thesis: Text Generation from Medical Images \textemdash{} CNN encoder with an attention-based RNN decoder in TensorFlow, generating captions for medical images.
+
+\cvsection{Skills}
+{\small
+\textbf{GenAI / LLM:} RAG, Prompt Engineering, Embeddings, LLM Evaluation, Fine-Tuning, Multi-Agent Orchestration (A2A), Microsoft Agent Framework, LangChain, Azure OpenAI, GPT APIs, Azure AI Search, PostgreSQL Vector Search\par
+\textbf{Programming:} Python (NumPy, Pandas, Scikit-Learn, Keras), C\# / .NET, TypeScript / Angular, SQL (Oracle, PostgreSQL)\par
+\textbf{ML Engineering:} Docker, Docker Compose, GitLab CI, Git, Azure, REST APIs, Automated Regression Testing (.NET, Angular, Python), LLM Evaluation Harnesses, Model Monitoring\par
+\textbf{AI-Assisted Dev:} Claude Code, Pi (multi-model: GPT, DeepSeek), agentic coding workflows\par
+}
+
+\end{document}
