@@ -1,39 +1,50 @@
-# Hi, I'm Nikos Litharis
+# Hi, I'm Nikos 👋
 
-I'm an AI engineer at [Netcompany](https://netcompany.com) in Thessaloniki, Greece. I build and evaluate LLM and retrieval-augmented generation (RAG) systems, with a focus on retrieval quality, citations and reliable data ingestion.
+### AI engineer building systems that can show their work.
 
-[CV](Nikos_Litharis_CV.pdf) · [LinkedIn](https://linkedin.com/in/nicklitharis) · [Email](mailto:nicklitharis@gmail.com) · [Kaggle](https://kaggle.com/nikoslitharis)
+I work on LLM applications at [Netcompany](https://netcompany.com) in Thessaloniki, Greece. My focus is retrieval, evaluation and the engineering needed to get useful answers from real documents.
 
-## Selected projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikos_Litharis-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicklitharis)
+[![Email](https://img.shields.io/badge/Email-get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nicklitharis@gmail.com)
+[![CV](https://img.shields.io/badge/CV-read_the_PDF-455A64?style=flat-square)](Nikos_Litharis_CV.pdf)
+[![Kaggle](https://img.shields.io/badge/Kaggle-nikoslitharis-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/nikoslitharis)
 
-### [MedLeaf RAG](https://github.com/NickLitharis/medleaf-rag)
+## 🔎 Featured work
 
-A bilingual Greek/English question-answering demo over European Medicines Agency documents. It combines keyword and semantic retrieval, source-linked answers and safety redirects. The repository includes a retrieval evaluation and a CI regression check. This is a portfolio demo, not a clinical tool.
+### [MedLeaf RAG](https://github.com/NickLitharis/medleaf-rag) · bilingual answers grounded in medicine information
 
-### [SkillPulse Agent](https://github.com/NickLitharis/skillpulse-agent)
+Ask a question in Greek or English and retrieve cited excerpts from European Medicines Agency documents. Hybrid search combines semantic and keyword retrieval; an evaluation set and CI check track retrieval regressions.
 
-A job-market analysis project with LLM-based skill extraction, a SQL-grounded LangGraph agent and a read-only MCP server. The repository includes reproducible evaluations on synthetic data; live Hacker News ingestion is disabled by default while authorization remains unresolved.
+<a href="https://github.com/NickLitharis/medleaf-rag"><img src="https://raw.githubusercontent.com/NickLitharis/medleaf-rag/main/docs/demo-en.jpg" alt="MedLeaf demo showing an answer with source citations" width="650"></a>
 
-### [Medical image captioning](https://github.com/NickLitharis/medica)
+**Python · FastAPI · Qdrant · Docker**  
+*Portfolio demo, not a clinical tool.*
 
-My computer science thesis: a TensorFlow model that generates captions for medical images using a CNN encoder and an attention-based RNN decoder.
+### [SkillPulse Agent](https://github.com/NickLitharis/skillpulse-agent) · explore job-market data through an agent and MCP
 
-### [Haystack and Elasticsearch Q&A search](https://github.com/NickLitharis/haystack-elastic)
+Extracts skills from job posts and answers questions using SQL-backed tools. The same tools are exposed through a read-only MCP server. Its evaluation uses synthetic data; live Hacker News ingestion is disabled by default while authorization is unresolved.
 
-A fork comparing keyword and semantic retrieval pipelines over the same scraped corpus.
+**Python · LangGraph · PostgreSQL · MCP**
 
-## Experience
+### [Medical image captioning](https://github.com/NickLitharis/medica) · my BSc thesis
 
-At Netcompany, I work on evaluation and user-acceptance testing for a legal-research assistant, including scenario datasets and answer/citation scoring. I've also built a resumable ingestion pipeline for legal documents and worked on bilingual retrieval evaluation and speech integration.
+A CNN encoder and attention-based RNN decoder generate captions for medical images using TensorFlow.
 
-Previously, at Prosperty, I built a GPT-based tool for property descriptions and helped ship it as a REST API. The work reduced description-production time from roughly two hours to under 30 seconds.
+### [Haystack + Elasticsearch](https://github.com/NickLitharis/haystack-elastic) · comparing search approaches
 
-## Tools
+A fork comparing keyword and semantic retrieval over the same scraped corpus.
 
-Python, C#, TypeScript, SQL and Bash; Azure OpenAI, Microsoft Agent Framework, LangChain, Haystack and Elasticsearch; Docker, Azure, PostgreSQL and GitLab CI.
+## 🛠️ What I work on
 
-## Education
+At Netcompany, I work on evaluation and user-acceptance testing for a legal-research assistant: scenario datasets, answer and citation scoring, and bilingual retrieval quality. I've also built a resumable document-ingestion pipeline and integrated speech into a RAG assistant.
 
-BSc in Computer Science, [Ionian University](https://ionio.gr), 2019–2024. Thesis: *Text Generation from Medical Images*.
+Previously at Prosperty, I helped ship a GPT-based property-description tool as a REST API, reducing production time from roughly two hours to under 30 seconds.
 
-*"Διά των δύο οδών συντομοτέρα η ευθεία" — "By way of the two roads, the straight one is shorter."*
+**Languages:** Python, C#, TypeScript, SQL, Bash  
+**AI & retrieval:** Azure OpenAI, Microsoft Agent Framework, LangChain, Haystack, Elasticsearch  
+**Infrastructure:** Azure, Docker, PostgreSQL, GitLab CI
+
+🎓 BSc in Computer Science, [Ionian University](https://ionio.gr) · 2019–2024
+
+> Διά των δύο οδών συντομοτέρα η ευθεία  
+> *Of the two roads, the straight one is shorter.*
