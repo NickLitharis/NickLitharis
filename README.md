@@ -1,50 +1,42 @@
-# Hi, I'm Nikos 👋
+Nikos Litharis
 
-### AI engineer building systems that can show their work.
+"LinkedIn" (https://linkedin.com/in/nicklitharis) · "Email" (mailto:nicklitharis@gmail.com) · "CV" (Nikos_Litharis_CV.pdf) · "Kaggle" (https://kaggle.com/nikoslitharis)
 
-I work on LLM applications at [Netcompany](https://netcompany.com) in Thessaloniki, Greece. My focus is retrieval, evaluation and the engineering needed to get useful answers from real documents.
+I'm a software engineer working with AI. I enjoy experimenting with different approaches to see what works best and finding ways to make software faster, lighter, and easier to maintain. I follow the Unix philosophy when writing code, keeping things simple and making each part do one thing well.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikos_Litharis-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicklitharis)
-[![Email](https://img.shields.io/badge/Email-get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nicklitharis@gmail.com)
-[![CV](https://img.shields.io/badge/CV-read_the_PDF-455A64?style=flat-square)](Nikos_Litharis_CV.pdf)
-[![Kaggle](https://img.shields.io/badge/Kaggle-nikoslitharis-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/nikoslitharis)
+Education
 
-## 🔎 Featured work
+BSc in Computer Science — "Ionian University" (https://ionio.gr)
+October 2019 – June 2024
 
-### [MedLeaf RAG](https://github.com/NickLitharis/medleaf-rag) · bilingual answers grounded in medicine information
+Experience
 
-Ask a question in Greek or English and retrieve cited excerpts from European Medicines Agency documents. Hybrid search combines semantic and keyword retrieval; an evaluation set and CI check track retrieval regressions.
+AI Engineer — Netcompany
 
-<a href="https://github.com/NickLitharis/medleaf-rag"><img src="https://raw.githubusercontent.com/NickLitharis/medleaf-rag/main/docs/demo-en.jpg" alt="MedLeaf demo showing an answer with source citations" width="650"></a>
+November 2025 – Present
 
-**Python · FastAPI · Qdrant · Docker**  
-*Portfolio demo, not a clinical tool.*
+Working on AI applications, primarily involving LLMs, retrieval systems, and evaluation. My work includes testing answer quality, checking citations, building document-processing pipelines, and improving how AI systems handle information.
 
-### [SkillPulse Agent](https://github.com/NickLitharis/skillpulse-agent) · explore job-market data through an agent and MCP
+AI Intern — Prosperty
 
-Extracts skills from job posts and answers questions using SQL-backed tools. The same tools are exposed through a read-only MCP server. Its evaluation uses synthetic data; live Hacker News ingestion is disabled by default while authorization is unresolved.
+February 2024 – April 2024
 
-**Python · LangGraph · PostgreSQL · MCP**
+Worked on an API that uses LLMs to generate property descriptions from structured data, reducing the time needed to produce them from hours to seconds.
 
-### [Medical image captioning](https://github.com/NickLitharis/medica) · my BSc thesis
+Projects
 
-A CNN encoder and attention-based RNN decoder generate captions for medical images using TensorFlow.
+"Medica" (https://github.com/NickLitharis/medica)
 
-### [Haystack + Elasticsearch](https://github.com/NickLitharis/haystack-elastic) · comparing search approaches
+My bachelor's thesis on generating text descriptions from medical images using deep learning, combining computer vision with attention-based language generation.
 
-A fork comparing keyword and semantic retrieval over the same scraped corpus.
+"Groundwork" (https://github.com/NickLitharis/groundwork)
 
-## 🛠️ What I work on
+A collection of model-agnostic skills that help coding agents apply software engineering principles.
 
-At Netcompany, I work on evaluation and user-acceptance testing for a legal-research assistant: scenario datasets, answer and citation scoring, and bilingual retrieval quality. I've also built a resumable document-ingestion pipeline and integrated speech into a RAG assistant.
+"MedLeaf RAG" (https://github.com/NickLitharis/medleaf-rag)
 
-Previously at Prosperty, I helped ship a GPT-based property-description tool as a REST API, reducing production time from roughly two hours to under 30 seconds.
+A bilingual RAG application built around official European Medicines Agency documents. I'm currently experimenting with rewriting parts of it in Rust and comparing K-means and e-means to see how they affect retrieval quality and performance.
 
-**Languages:** Python, C#, TypeScript, SQL, Bash  
-**AI & retrieval:** Azure OpenAI, Microsoft Agent Framework, LangChain, Haystack, Elasticsearch  
-**Infrastructure:** Azure, Docker, PostgreSQL, GitLab CI
+"Anemos" (https://github.com/NickLitharis/anemos)
 
-🎓 BSc in Computer Science, [Ionian University](https://ionio.gr) · 2019–2024
-
-> Διά των δύο οδών συντομοτέρα η ευθεία  
-> *Of the two roads, the straight one is shorter.*
+An experimental operating system inspired by Windows XP, built around an independently implemented kernel. Focuses on recreating XP's observable behavior while testing compatibility and correctness.
