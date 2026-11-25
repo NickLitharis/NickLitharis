@@ -2,3 +2,25 @@
 /README.html
 /viewer.html
 /.mdlive.sh
+
+# CV variant that is not used (kept locally for comparison only).
+/Nikos_Litharis_CV_small.*
+
+# LaTeX build artifacts; only the .tex source and the final PDF are tracked.
+*.aux
+*.log
+*.out
+*.toc
+*.xdv
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Editor and OS files.
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

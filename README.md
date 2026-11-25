@@ -86,7 +86,6 @@ I follow the Unix philosophy when writing code: keep things simple, and make eac
     <td width="50%" valign="top">
       <h3>🔎 AI &amp; Retrieval</h3>
       <img src="assets/badge-azure-openai.svg" alt="Azure OpenAI">
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
       <img src="https://img.shields.io/badge/Haystack-00C2A8?style=flat-square&logo=haystack&logoColor=white" alt="Haystack">
       <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
     </td>
