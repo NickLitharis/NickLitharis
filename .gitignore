@@ -1,0 +1,4 @@
+# Local live-preview tooling; GitHub renders README.md itself.
+/README.html
+/viewer.html
+/.mdlive.sh

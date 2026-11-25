@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Nikos Litharis. Software Engineer, Experimental Computing, AI-assisted Engineering. Clean scope, simple systems, unconventional experiments. Question assumptions.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1233"/>
+      <stop offset="0.55" stop-color="#151a54"/>
+      <stop offset="1" stop-color="#26216d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.88" cy="0.08" r="0.6">
+      <stop offset="0" stop-color="#6b7bff" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#6b7bff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8fb4ff"/>
+      <stop offset="1" stop-color="#b9a9ff"/>
+    </linearGradient>
+    <linearGradient id="gridFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#fff" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="gridMask">
+      <rect width="1200" height="400" fill="url(#gridFade)"/>
+    </mask>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#9fb2ff" stroke-opacity="0.09" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- field -->
+  <rect width="1200" height="400" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="400" rx="16" fill="url(#glow)"/>
+  <rect width="1200" height="400" rx="16" fill="url(#grid)" mask="url(#gridMask)"/>
+
+  <!-- scope boundary: explicit corners -->
+  <g fill="none" stroke="#c5d0ff" stroke-opacity="0.26" stroke-width="1.5" stroke-linecap="square">
+    <path d="M36 62V36H62"/>
+    <path d="M1138 36H1164V62"/>
+    <path d="M36 338V364H62"/>
+    <path d="M1138 364H1164V338"/>
+  </g>
+
+  <!-- technical traces: orthogonal, quiet -->
+  <g fill="none" stroke="#8fa2ff" stroke-opacity="0.34" stroke-width="1.3" stroke-linejoin="round">
+    <path d="M740 84H880V138H1004V196H1104"/>
+    <path d="M820 172H930V118H1052V70"/>
+    <path d="M860 352H950V322H1066V352H1096"/>
+  </g>
+  <g fill="#0f1640" stroke="#a9b8ff" stroke-opacity="0.55" stroke-width="1.3">
+    <circle cx="740" cy="84" r="3.5"/>
+    <circle cx="1104" cy="196" r="3.5"/>
+    <circle cx="820" cy="172" r="3.5"/>
+    <circle cx="1052" cy="70" r="3.5"/>
+    <circle cx="860" cy="352" r="3.5"/>
+    <circle cx="1096" cy="352" r="3.5"/>
+  </g>
+
+  <!-- prompt -->
+  <text x="88" y="112" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="21" fill="url(#accent)">&gt; question assumptions<tspan>_<animate attributeName="fill-opacity" values="1;0" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/></tspan></text>
+
+  <!-- name -->
+  <text x="86" y="214" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="76" font-weight="700" fill="#f5f7ff" letter-spacing="-1.5">Nikos Litharis</text>
+  <rect x="88" y="236" width="64" height="4" rx="2" fill="url(#accent)"/>
+
+  <!-- subtitle -->
+  <text x="88" y="286" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="25" fill="#c7d0ee">Software Engineer · Experimental Computing · AI-assisted Engineering</text>
+
+  <!-- supporting text -->
+  <text x="88" y="332" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="17" fill="#8794c2" letter-spacing="0.4">clean scope · simple systems · unconventional experiments</text>
+</svg>
