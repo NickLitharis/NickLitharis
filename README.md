@@ -61,8 +61,8 @@ I follow the Unix philosophy when writing code: keep things simple, and make eac
       <img src="assets/badge-windows-xp.svg" alt="Target: Windows XP">
     </td>
     <td width="50%" valign="top">
-      <h3>🔬 Verified CLI Delegation Benchmark</h3>
-      <p>A Rust testing harness that measures how language models behave when given tools: can they use fewer tokens by delegating deterministic work to sandboxed command-line tools with independently verified feedback? Built to report negative findings. Two completed 576-run cohorts have not established token savings; the CLI arms allowed Python, so a native-tools-only follow-up is in development.</p>
+      <h3><a href="https://github.com/NickLitharis/tooldelegate">🔬 Tooldelegate</a></h3>
+      <p>A Rust benchmark that tests whether a language model uses fewer tokens, and gets more artifacts right, when it delegates deterministic transformations to sandboxed tools instead of generating the result itself. Every run is scored by an independent hidden oracle, and no approach is presumed better. In the v3 cohort delegation won on correctness (70–74% success vs 17% direct) but token savings were not established, and its CLI arms allowed Python. Next: a planned CLI-vs-MCP comparison, not yet built.</p>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
       <img src="https://img.shields.io/badge/sandbox-bubblewrap_%2B_seccomp-FCC624?style=flat-square&logo=linux&logoColor=white" alt="Sandboxed with bubblewrap and seccomp">
     </td>
